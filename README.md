@@ -12,6 +12,9 @@ Para executar o ScheduleIt em sua própria máquina, siga os passos abaixo:
 ## Sobre o ScheduleIt
 O ScheduleIt é um sistema de agendamentos voltado para estabelecimentos, consultórios e pequenos negócios. Ele permite a gestão de usuários e salas virtuais, onde funcionários podem ser cadastrados e agendas podem ser gerenciadas.
 
+![agenda](https://github.com/user-attachments/assets/841f2eae-e802-453a-8573-6cae72283dbb)
+
+
 ### Funcionalidades
 - **Usuários** podem ser:
   - Funcionários de salas criadas.
@@ -42,20 +45,16 @@ Se estiver tendo problemas, utilize a conta de administrador:
 - **Usuário:** admin
 - **Senha:** 123  
 Essa conta possui uma sala cadastrada ainda não publicada.  
-  
-Outras contas cadastradas:  
+
+Outras contas cadastradas:
 - **Usuário:** walter@gmail.com
 - **Usuário:** jesse@gmail.com
-- **Senha:** 123  
-
+- **Senha:** 123
 
 ## Estrutura do Projeto
 O código está organizado da seguinte forma:
-
 - **View** - Contém os arquivos responsáveis pela interface do usuário (HTML, CSS, JS).
 - **Model** - Responsável pela interação com o banco de dados (DAO).
 - **Controller** - Manipula as requisições HTTP (POST, GET) e interage com a View e o Model.
 
----
 Este README tem como objetivo facilitar a instalação e o uso do ScheduleIt. Caso tenha dúvidas ou precise de suporte, entre em contato com o desenvolvedor.
-
